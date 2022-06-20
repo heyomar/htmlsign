@@ -5,3 +5,7 @@ body {
 	padding: 15px;
 	font-family: 'PT Serif';
 }
+
+video {
+	padding-top: 10px;
+}
